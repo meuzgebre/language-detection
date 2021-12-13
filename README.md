@@ -1,6 +1,6 @@
 ### Language Detection Model Using HornMT Dataset
 
-The dataset is from [Gebre](link)
+The dataset is from [Gebre](https://github.com/gebre/HornMT)
 
  About the dataset
 - There are 2 dataset inside the /data directory HornMT.xlsx is the original dataset whereas HornMT_Langugae_Detection.xlsx is the custome dataset.
